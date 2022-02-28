@@ -1,0 +1,16 @@
+C:\Users\churchill paul\source\repos\UC3-part time\UC3-part time\bin\Debug\net5.0\UC3-part time.exe
+C:\Users\churchill paul\source\repos\UC3-part time\UC3-part time\bin\Debug\net5.0\UC3-part time.deps.json
+C:\Users\churchill paul\source\repos\UC3-part time\UC3-part time\bin\Debug\net5.0\UC3-part time.runtimeconfig.json
+C:\Users\churchill paul\source\repos\UC3-part time\UC3-part time\bin\Debug\net5.0\UC3-part time.runtimeconfig.dev.json
+C:\Users\churchill paul\source\repos\UC3-part time\UC3-part time\bin\Debug\net5.0\UC3-part time.dll
+C:\Users\churchill paul\source\repos\UC3-part time\UC3-part time\bin\Debug\net5.0\UC3-part time.pdb
+C:\Users\churchill paul\source\repos\UC3-part time\UC3-part time\obj\Debug\net5.0\UC3-part time.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\UC3-part time\UC3-part time\obj\Debug\net5.0\UC3-part time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\UC3-part time\UC3-part time\obj\Debug\net5.0\UC3-part time.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\UC3-part time\UC3-part time\obj\Debug\net5.0\UC3-part time.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\UC3-part time\UC3-part time\obj\Debug\net5.0\UC3-part time.csproj.CoreCompileInputs.cache
+C:\Users\churchill paul\source\repos\UC3-part time\UC3-part time\obj\Debug\net5.0\UC3-part time.dll
+C:\Users\churchill paul\source\repos\UC3-part time\UC3-part time\obj\Debug\net5.0\refint\UC3-part time.dll
+C:\Users\churchill paul\source\repos\UC3-part time\UC3-part time\obj\Debug\net5.0\UC3-part time.pdb
+C:\Users\churchill paul\source\repos\UC3-part time\UC3-part time\obj\Debug\net5.0\UC3-part time.genruntimeconfig.cache
+C:\Users\churchill paul\source\repos\UC3-part time\UC3-part time\obj\Debug\net5.0\ref\UC3-part time.dll
